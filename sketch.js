@@ -2,7 +2,7 @@ var bg,weather,a = 1,z=1,temp,c1,h1,input1,button,location,wind,humidity;
 var div1,report,covidUrl;
 var link = `https://coronavirus-19-api.herokuapp.com/countries/`
 var nation = `india`
-var api = `http://api.openweathermap.org/data/2.5/weather?q=`
+var api = `https://api.openweathermap.org/data/2.5/weather?q=`
 var apiKey =`&appid=ca869b8d4f1a1a9fa1b200e5cef8d33a`;
 var units = `&units=metric`
 
