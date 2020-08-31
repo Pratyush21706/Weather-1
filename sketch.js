@@ -1,3 +1,11 @@
+var bg,input1,a = 1,z=1,temp,c1,h1,input1,button,location,wind,humidity,coming;
+var div1,report,covidUrl;
+var link = `https://coronavirus-19-api.herokuapp.com/countries/`
+var nation = `india`
+var api = `https://api.openweathermap.org/data/2.5/forecast?q=`
+var apiKey =`&appid=ca869b8d4f1a1a9fa1b200e5cef8d33a`;
+var units = `&units=metric`
+var hr,mn,sc,day,month,year;
 var r=255 , g = 50, b=0;
 var icon,iconImg;
 var corona = 1;
