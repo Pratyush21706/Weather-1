@@ -294,17 +294,17 @@ text(des3,width/1.7,height/1.07)
 text(des4,width/1.35,height/1.07)
 text(des5,width/1.16,height/1.07)
 textSize(30)
-// date1 = sc+1;
-// date2 = sc+2;
-// date3 = sc+3;
-// date4 = sc+4;
-// date5 = sc+5;
+ date1 = sc+1;
+ date2 = sc+2;
+date3 = sc+3;
+ date4 = sc+4;
+ date5 = sc+5;
 
-date1 = 31
-date2 = 01
-date3 = 02
-date4 = 03
-date5 = 04
+//date1 = 31
+//date2 = 01
+//date3 = 02
+//date4 = 03
+//date5 = 04
 
 // if(date1==="32"){
 //   date1 = 1;
@@ -338,17 +338,17 @@ date5 = 04
 //   date5 = 2;
 // }
 
-// text(date1,width/3.15, height/1.22)
-// text(date2,width/2.15,height/1.22)
-// text(date3,width/1.63,height/1.22)
-// text(date4,width/1.33,height/1.22)
-// text(date5,width/1.13,height/1.22)
+ text(date1,width/3.15, height/1.22)
+ text(date2,width/2.15,height/1.22)
+ text(date3,width/1.63,height/1.22)
+ text(date4,width/1.33,height/1.22)
+ text(date5,width/1.13,height/1.22)
 
-text(date1,width/3.15, height/1.22)
-text("0"+date2,width/2.15,height/1.22)
-text("0"+date3,width/1.63,height/1.22)
-text("0"+date4,width/1.33,height/1.22)
-text("0"+date5,width/1.13,height/1.22)
+//text(date1,width/3.15, height/1.22)
+//text("0"+date2,width/2.15,height/1.22)
+//text("0"+date3,width/1.63,height/1.22)
+//text("0"+date4,width/1.33,height/1.22)
+//text("0"+date5,width/1.13,height/1.22)
 textStyle("normal")
 textSize(22)
 
